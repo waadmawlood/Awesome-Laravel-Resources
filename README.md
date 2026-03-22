@@ -50,7 +50,7 @@ A curated collection of essential Laravel resources, best practices, and advance
 - Coming soon
 
 ### 9. Queue & Jobs
-- Coming soon
+- [Stop Failing APIs from Killing Your Queue — Fuse for Laravel](https://laravel-news.com/stop-failing-apis-from-killing-your-queue-fuse-for-laravel) - Protect Horizon/Redis queues with a circuit breaker: delay failing jobs instead of blocking workers when external APIs go down ([video](https://youtu.be/w-QKqTPbcqs))
 
 ### 10. Blade Templates
 - [How to Use Blade Components, Layouts, Props, and Slots in Laravel](https://benjamincrozat.com/laravel-blade-components-layouts-props-slots) - Master Blade's component system including layouts, props, slots, and attribute merging for reusable views
