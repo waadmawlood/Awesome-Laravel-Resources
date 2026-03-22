@@ -51,6 +51,7 @@ A curated collection of essential Laravel resources, best practices, and advance
 
 ### 9. Queue & Jobs
 - [Stop Failing APIs from Killing Your Queue — Fuse for Laravel](https://laravel-news.com/stop-failing-apis-from-killing-your-queue-fuse-for-laravel) - Protect Horizon/Redis queues with a circuit breaker: delay failing jobs instead of blocking workers when external APIs go down ([video](https://youtu.be/w-QKqTPbcqs))
+- [From 300ms API to Zero Backlog: Scaling Laravel Queues on Database Driver with Supervisor](https://medium.com/write-a-catalyst/from-300ms-api-to-zero-backlog-scaling-laravel-queues-on-database-driver-with-supervisor-laravel-766e91b37a15) - Scale `database` queue workers under Supervisor to drain backlog and keep APIs responsive
 
 ### 10. Blade Templates
 - [How to Use Blade Components, Layouts, Props, and Slots in Laravel](https://benjamincrozat.com/laravel-blade-components-layouts-props-slots) - Master Blade's component system including layouts, props, slots, and attribute merging for reusable views
