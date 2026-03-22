@@ -47,7 +47,7 @@ A curated collection of essential Laravel resources, best practices, and advance
 - Coming soon
 
 ### 8. API Development
-- Coming soon
+- [Nimbus: An In-Browser API Testing Playground for Laravel](https://laravel-news.com/nimbus-an-in-browser-api-testing-playground-for-laravel) - Developer-focused `/nimbus` UI to discover routes, test endpoints with FormRequest/validation-aware payloads, transaction mode, and user impersonation ([sunchayn/nimbus](https://github.com/sunchayn/nimbus))
 
 ### 9. Queue & Jobs
 - [Stop Failing APIs from Killing Your Queue — Fuse for Laravel](https://laravel-news.com/stop-failing-apis-from-killing-your-queue-fuse-for-laravel) - Protect Horizon/Redis queues with a circuit breaker: delay failing jobs instead of blocking workers when external APIs go down ([video](https://youtu.be/w-QKqTPbcqs))
