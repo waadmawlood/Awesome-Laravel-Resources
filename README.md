@@ -44,7 +44,7 @@ A curated collection of essential Laravel resources, best practices, and advance
 - Coming soon
 
 ### 7. Performance Optimization
-- Coming soon
+- [Static Variable in PHP: A Silent Trap with Laravel Octane](https://medium.com/@arthurmonney/static-variable-in-php-a-silent-trap-with-laravel-octane-3a51013a0aa9) - Why static state persists across Octane requests and how it can leak data or cause subtle bugs in long-lived workers
 
 ### 8. API Development
 - [Nimbus: An In-Browser API Testing Playground for Laravel](https://laravel-news.com/nimbus-an-in-browser-api-testing-playground-for-laravel) - Developer-focused `/nimbus` UI to discover routes, test endpoints with FormRequest/validation-aware payloads, transaction mode, and user impersonation ([sunchayn/nimbus](https://github.com/sunchayn/nimbus))
