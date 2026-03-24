@@ -19,6 +19,7 @@ A curated collection of essential Laravel resources, best practices, and advance
     - [8. API Development](#8-api-development)
     - [9. Queue \& Jobs](#9-queue--jobs)
     - [10. Blade Templates](#10-blade-templates)
+    - [11. Security](#11-security)
   - [About This Guide](#about-this-guide)
   - [License](#license)
 
@@ -55,6 +56,9 @@ A curated collection of essential Laravel resources, best practices, and advance
 
 ### 10. Blade Templates
 - [How to Use Blade Components, Layouts, Props, and Slots in Laravel](https://benjamincrozat.com/laravel-blade-components-layouts-props-slots) - Master Blade's component system including layouts, props, slots, and attribute merging for reusable views
+
+### 11. Security
+- [Ward: A Security Scanner for Laravel](https://laravel-news.com/ward-a-security-scanner-for-laravel) - Go CLI that understands Laravel structure (routes, config, Blade, `.env`) and runs env, config, Composer/OSV dependency, and rules-based checks with TUI, SARIF/JSON/HTML output, and CI baselines ([Eljakani/ward](https://github.com/Eljakani/ward))
 
 ---
 
