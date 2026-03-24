@@ -20,6 +20,8 @@ A curated collection of essential Laravel resources, best practices, and advance
     - [9. Queue \& Jobs](#9-queue--jobs)
     - [10. Blade Templates](#10-blade-templates)
     - [11. Security](#11-security)
+    - [12. Developer Productivity](#12-developer-productivity)
+    - [13. Architecture](#13-architecture)
   - [About This Guide](#about-this-guide)
   - [License](#license)
 
@@ -28,6 +30,7 @@ A curated collection of essential Laravel resources, best practices, and advance
 ### 1. Eloquent ORM
 - [Understanding Laravel Subqueries](https://benjamincrozat.com/laravel-subquery "Laravel Subquery Banner") - Master the art of writing efficient subqueries in Laravel's Eloquent ORM
 - [Manage Metadata on Laravel Eloquent Models with JSON Support](https://laravel-news.com/manage-metadata-on-laravel-eloquent-models-with-json-support) - Attach, manage, and query metadata on Eloquent models using a polymorphic JSON-based package
+- [Laravel Model Structure: Writing Beautiful, Maintainable Code](https://medium.com/@devajayantha/laravel-model-structure-writing-beautiful-maintainable-code-07267d889399) - Organizing Eloquent models for clarity: relationships, casts, scopes, and conventions that stay easy to change
 
 ### 2. Caching
 - Coming soon
@@ -59,6 +62,12 @@ A curated collection of essential Laravel resources, best practices, and advance
 
 ### 11. Security
 - [Ward: A Security Scanner for Laravel](https://laravel-news.com/ward-a-security-scanner-for-laravel) - Go CLI that understands Laravel structure (routes, config, Blade, `.env`) and runs env, config, Composer/OSV dependency, and rules-based checks with TUI, SARIF/JSON/HTML output, and CI baselines ([Eljakani/ward](https://github.com/Eljakani/ward))
+
+### 12. Developer Productivity
+- [Laravel Shortcuts: 5 Simple Functions to Speed Up Your Coding Workflow](https://medium.com/@developerawam/laravel-shortcuts-5-simple-functions-to-speed-up-your-coding-workflow-8718f4188c5a) - Small Laravel helpers and patterns you can reuse day to day for faster, cleaner code
+
+### 13. Architecture
+- [Laravel Service-Repository Pattern: My Experience and Key Benefits](https://medium.com/@devajayantha/laravel-service-repository-pattern-my-experience-and-key-benefits-afa985cd8b18) - Separating domain logic in services from data access in repositories, and what that buys you in real Laravel projects
 
 ---
 
