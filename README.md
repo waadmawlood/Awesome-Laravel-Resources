@@ -22,6 +22,7 @@ A curated collection of essential Laravel resources, best practices, and advance
     - [11. Security](#11-security)
     - [12. Developer Productivity](#12-developer-productivity)
     - [13. Architecture](#13-architecture)
+    - [14. Deployment](#14-deployment)
   - [About This Guide](#about-this-guide)
   - [License](#license)
 
@@ -68,6 +69,9 @@ A curated collection of essential Laravel resources, best practices, and advance
 
 ### 13. Architecture
 - [Laravel Service-Repository Pattern: My Experience and Key Benefits](https://medium.com/@devajayantha/laravel-service-repository-pattern-my-experience-and-key-benefits-afa985cd8b18) - Separating domain logic in services from data access in repositories, and what that buys you in real Laravel projects
+
+### 14. Deployment
+- [How to Deploy Laravel to Production: The Complete Guide (2026)](https://origin-main.com/guides/deploy-laravel-to-production) - Nginx, `.env` hardening, Composer/`optimize`, migrations, Supervisor queues, scheduler, zero-downtime (Forge, Deployer, Laravel Cloud), Pulse, logging, and a pre-launch checklist
 
 ---
 
