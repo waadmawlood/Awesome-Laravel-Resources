@@ -66,6 +66,8 @@ A curated collection of essential Laravel resources, best practices, and advance
 
 ### 12. Developer Productivity
 - [Laravel Shortcuts: 5 Simple Functions to Speed Up Your Coding Workflow](https://medium.com/@developerawam/laravel-shortcuts-5-simple-functions-to-speed-up-your-coding-workflow-8718f4188c5a) - Small Laravel helpers and patterns you can reuse day to day for faster, cleaner code
+- [Laravel Observers vs Listeners: Master the Difference](https://freedium-mirror.cfd/https://codermanjeet.medium.com/laravel-observers-vs-listeners-master-the-difference-ea241ac2211c) - Model lifecycle observers vs custom events and listeners: scope, coupling, queues, transactions, and when to combine them ([original on Medium](https://codermanjeet.medium.com/laravel-observers-vs-listeners-master-the-difference-ea241ac2211c))
+
 
 ### 13. Architecture
 - [Laravel Service-Repository Pattern: My Experience and Key Benefits](https://medium.com/@devajayantha/laravel-service-repository-pattern-my-experience-and-key-benefits-afa985cd8b18) - Separating domain logic in services from data access in repositories, and what that buys you in real Laravel projects
